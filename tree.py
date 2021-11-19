@@ -18,7 +18,7 @@ class Tree_Node:
 
 dic=["A","B","C","D"]
 
-
+#this function draws a merkel Tree
 def draw_tree(dic):
     if len(dic)%2==0:
         arr=dic
